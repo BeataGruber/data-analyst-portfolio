@@ -1,14 +1,31 @@
-# data-analyst-portfolio
-Built data-driven security analytics dashboard
-# Phishing Website Detection System
+# Data Analyst & Cyber Security Portfolio
 
-Machine learning model using Random Forest to detect phishing websites.
+Hi, I'm a Cyber Security MSc graduate (Distinction) with strong skills in data analytics, machine learning, and visualization.
 
-## Skills Used
-- Python
+## 🔧 Skills
+- Python (Pandas, Scikit-learn)
+- Power BI
+- Tableau
+- Excel
 - Machine Learning
-- Data preprocessing
-- Model evaluation
+- Cyber Security Tools
 
-## Outcome
-Built a classification model to detect malicious websites based on features.
+## 📁 Projects
+
+### 1. Phishing Detection System
+Machine learning model for cybersecurity threat detection.
+
+### 2. Crime Data Analysis
+Exploratory data analysis and visualization of crime trends.
+
+### 3. Power BI Dashboard
+Interactive cybersecurity incident dashboard.
+
+### 4. Excel Data Analysis
+Business reporting and pivot table analysis.
+
+## 🎯 Goal
+Seeking Data Analyst / Cyber Security Analyst / Risk Analyst roles.
+
+## 📫 Contact
+[Your email]
