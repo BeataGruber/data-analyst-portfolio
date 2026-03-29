@@ -10,7 +10,7 @@ Hi, I'm a Cyber Security MSc graduate (Distinction) with strong skills in data a
 - Machine Learning
 - Cyber Security Tools
 
-## 📁 Projects
+##  Projects
 
 ### 1. Phishing Detection System
 Machine learning model for cybersecurity threat detection.
@@ -24,8 +24,8 @@ Interactive cybersecurity incident dashboard.
 ### 4. Excel Data Analysis
 Business reporting and pivot table analysis.
 
-## 🎯 Goal
+##  Goal
 Seeking Data Analyst / Cyber Security Analyst / Risk Analyst roles.
 
-## 📫 Contact
-[Your email]
+##  Contact
+boryszczyn@gmail.com 
